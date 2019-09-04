@@ -33,18 +33,6 @@ def jalan(z):
         sys.stdout.flush()
         time.sleep(0.01)
         
-clear
-echo
-echo
-cowsay  -f  eyes baztian | lolcat
-echo
-toilet  -f  standard -F gay  "Baztian"
-echo
-neofetch
-echo  -e  '\033[01;32m'
-date
-echo  -e  '\033[01;32m'
-
 
 def tik():
     titik = [
