@@ -33,11 +33,11 @@ def jalan(z):
         sys.stdout.flush()
         time.sleep(0.01)
         
- logo = " #################################
-          #ScriftBruteForce/by Baztian    #
-          #################################
-          #email: obaycilodong79@gmail.com#
-          #################################
+#################################
+#ScriftBruteForce/by Baztian    #
+#################################
+#email: obaycilodong79@gmail.com#
+#################################
 
 
 def tik():
