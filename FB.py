@@ -1,9 +1,9 @@
 clear
 echo
 echo
-cowsay  -f  eyes baztian | lolcat
-echo
-toilet  -f  standard -F gay  "Baztian"
+
+
+toilet  -f  standard -F gay  "Baztian"
 echo
 neofetch
 echo  -e  '\033[01;32m'
@@ -20,7 +20,7 @@ try:
 except ImportError:
     os.system('pip2 install mechanize')
 else:
-    try:
+    trytr
         import requests
     except ImportError:
         os.system('pip2 install requests')
