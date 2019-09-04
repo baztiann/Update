@@ -1,3 +1,16 @@
+clear
+echo
+echo
+cowsay  -f  eyes baztian | lolcat
+echo
+toilet  -f  standard -F gay  "Baztian"
+echo
+neofetch
+echo  -e  '\033[01;32m'
+date
+echo  -e  '\033[01;32m'
+
+
 # -*- coding: utf-8 -*-
 
 import os, sys, time, datetime, random, hashlib, re, threading, json, getpass, urllib, requests, mechanize
